@@ -5,7 +5,7 @@
      style="float: left; margin-right: 10px;" />
      
 #
-**Requirements**
+<b><h1>Requirements</b></h1>
 
 Python3: https://www.python.org/downloads/
 
